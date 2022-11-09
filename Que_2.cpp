@@ -1,5 +1,4 @@
-# Cpp-codes-assignment
-# Que 2
+
 
 #include <iostream>
 
