@@ -1,5 +1,4 @@
-# Cpp-codes-assignment
-# Que 1) 
+
 #include <iostream>
 
 using namespace std;
